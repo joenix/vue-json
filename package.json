@@ -9,6 +9,6 @@
   "author": "joenix",
   "license": "MIT",
   "dependencies": {
-    "jsoneditor": "^6.1.0"
+    "jsoneditor": "^9.5.6"
   }
 }
